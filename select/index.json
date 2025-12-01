@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "孤独の鯨 - The Lonely Whale",
+  "base_artist": "tuki.",
+  "createdAt": "2025-12-01T08:18:29.526307Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "孤独の鯨",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/01_孤独の鯨_tuki..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "孤独の鯨 - The Lonely Whale",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/02_孤独の鯨_-_The_Lonely_Whale_tuki..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "孤独の鯨 - The Lonely Whale",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_孤独の鯨_-_The_Lonely_Whale_tuki..txt"
+    }
+  ]
+}
